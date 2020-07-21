@@ -592,6 +592,16 @@
   },
 
   {
+    "name": "monix-connect",
+    "language": "Scala",
+    "url": "https://monix.github.io/monix-connect/docs/redis",
+    "repository": "https://github.com/monix/monix-connect",
+    "description": "Monix integration with Redis",
+    "authors": ["paualarco"],
+    "active": true
+  },
+  
+  {
     "name": "laserdisc",
     "language": "Scala",
     "repository": "https://github.com/laserdisc-io/laserdisc",
@@ -765,7 +775,17 @@
     "authors": [],
     "active": true
   },
-
+  
+  {
+    "name": "xredis",
+    "language": "Node.js",
+    "repository": "https://github.com/razaellahi/xredis",
+    "description": "Redis client with redis ACL features",
+    "authors": [],
+    "recommended": true,
+    "active": true
+  },
+  
   {
     "name": "node_redis",
     "language": "Node.js",
